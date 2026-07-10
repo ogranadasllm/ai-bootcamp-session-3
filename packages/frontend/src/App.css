@@ -92,3 +92,11 @@ li:last-child {
   color: #d32f2f;
   font-weight: bold;
 }
+
+.NotPriority {
+  color: #7A7A7A;
+}
+
+.Priority {
+  color: #07F2E6;
+}

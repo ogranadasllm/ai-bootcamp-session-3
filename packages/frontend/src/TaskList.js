@@ -228,6 +228,7 @@ function TaskList({ onEdit }) {
                     color: 'white',
                     minWidth: '36px'
                   }}
+                  className={task.priority === 'P1' ? 'Priority' : 'NotPriority'}
                 />
               )}
               {task.due_date && (
