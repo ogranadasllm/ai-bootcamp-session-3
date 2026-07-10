@@ -21,12 +21,15 @@ Output format:
   - Story: <Story Title>
     - Description: <Story Description>
     - Acceptance Criterias: <Story Description>
+    - Technical Requirements: <Story Technical Requirements>
   - Story: <Story Title>
     - Description: <Story Description>
     - Acceptance Criterias: <Story Description>
+    - Technical Requirements: <Story Technical Requirements>
 - Epic: <Epic Title>
   - Story: <Story Title>
     - Description: <Story Description>
     - Acceptance Criterias: <Story Description>
+    - Technical Requirements: <Story Technical Requirements>
 
 Only output the titles. Be precise and minimal.
