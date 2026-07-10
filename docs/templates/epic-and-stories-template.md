@@ -19,8 +19,14 @@ Output format:
 
 - Epic: <Epic Title>
   - Story: <Story Title>
+    - Description: <Story Description>
+    - Acceptance Criterias: <Story Description>
   - Story: <Story Title>
+    - Description: <Story Description>
+    - Acceptance Criterias: <Story Description>
 - Epic: <Epic Title>
   - Story: <Story Title>
+    - Description: <Story Description>
+    - Acceptance Criterias: <Story Description>
 
 Only output the titles. Be precise and minimal.
